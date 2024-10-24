@@ -18,7 +18,7 @@ function adicionar() {
 function reiniciar() {
     lista.textContent = '';
     listaSorteio.innerHTML = '';
-
+    amigos = [];
 }
 
 function sortear(){
